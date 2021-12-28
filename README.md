@@ -1,4 +1,10 @@
-## Olá! sou o Luis Almeida ✋
+## Olá! Sou o Luis Almeida ✋
+
+Apaixonado por programação e tecnologia! 💻
+
+"Não é a linguagem de programação que define o programador, mas sim sua lógica."
+
+<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisalmeida25555/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Almeida2001Luis)
